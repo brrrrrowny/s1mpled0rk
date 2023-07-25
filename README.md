@@ -7,4 +7,4 @@ a simple dork searching program written in python<br />
 -Uses the dorks to search various search engines and extract URLs.<br />
 -Exports the collected URLs to a file named "urls.txt" in the same folder<br />
 ### Socials: <br />
--[cracked.io:browny59](https://cracked.io/browny59){:target="_blank"} 
+-[cracked.io:browny59](https://cracked.io/browny59) 
