@@ -6,5 +6,11 @@ a simple dork searching program written in python<br />
 -Asks the user for number of threads and the number of search results per dork.<br />
 -Uses the dorks to search various search engines and extract URLs.<br />
 -Exports the collected URLs to a file named "urls.txt" in the same folder<br />
+## Usage: <br />
+``` python dorksearch.py ```
+## Compile: <br />
+``` pyinstaller --onefile --console dorksearch.spec ```
+## EXE file:
+See release
 ### Socials: <br />
 -[cracked.io:browny59](https://cracked.io/browny59) 
